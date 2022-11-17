@@ -23,6 +23,9 @@ header{
     height: 800px;
     width: 100%;
 }
+p{
+    margin: 0;
+}
 h1{
     text-align: center;
     font-size: 50px;
@@ -33,10 +36,7 @@ h2 {
     font-size: 50px;
     margin: 0;
 }
-.linea{
-    display: flex;
-    margin-top: -20px;
-}
+
 .linea1, .linea2{
     width: 50%;
 }
