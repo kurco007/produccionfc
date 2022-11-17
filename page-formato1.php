@@ -25,11 +25,12 @@
                             <div class="cantidad">
                                 <p> <?php the_field('cajeta_coyotas'); ?> y</p>
                                 <p> <?php the_field('jamoncillo'); ?> y</p>
-                                <p> <?php the_field('piloncillo'); ?>y</p>
+                                <p> <?php the_field('piloncillo'); ?> y</p>
                                 <p> <?php the_field('nuez'); ?> y</p>
-                                <div class="charolas">
-                                    <p>18 charolas</p>
-                                </div>
+
+                            </div>
+                            <div class="charolas">
+                                <p> 1/18 </p>
                             </div>
 
                             <div class="sabor">
