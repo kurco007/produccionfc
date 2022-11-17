@@ -10,8 +10,10 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: 
 Text Domain: contador simple de produccion
 */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
 body{
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 header{
     margin: 0;

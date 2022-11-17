@@ -21,16 +21,16 @@
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
-                                <p>00</p>
-                                <p>00</p>
-                                <p>00</p>
-                                <p>00</p>
+                                <p> <?php the_field('cajeta_coyotas'); ?></p>
+                                <p> <?php the_field('jamoncillo_coyotas'); ?></p>
+                                <p> <?php the_field('piloncilo_coyotas'); ?></p>
+                                <p> <?php the_field('nuez_coyotas'); ?></p>
                             </div>
                             <div class="sabor">
                                 <p>Cajeta</p>
                                 <p>Jamoncillo</p>
                                 <p>Piloncillo</p>
-                                <p>Nutela</p>
+                                <p>Nuez</p>
                             </div>
                         </div>
                     </div>
@@ -45,11 +45,11 @@
                     </table>
                     <div class="contenido">
                         <div class="estantes">
-                            <h1>00</h1>
+                            <h1> <?php the_field('espigueros_totales_mini'); ?></h1>
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
-                                <p>00</p>
+                                <p> <?php the_field('lechera_mini'); ?></p>
                                 <p>00</p>
                             </div>
                             <div class="sabor">
@@ -71,12 +71,12 @@
                     </table>
                     <div class="contenido">
                         <div class="estantes">
-                            <h1>00</h1>
+                            <h1> <?php the_field('espigueros_totales_empanadas'); ?></h1>
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
-                                <p>00</p>
-                                <p>00</p>
+                                <p> <?php the_field('cajeta_empanadas'); ?></p>
+                                <p> <?php the_field('lechera_empanadas'); ?></p>
                             </div>
                             <div class="sabor">
                                 <p>Cajeta</p>
@@ -95,11 +95,11 @@
                     </table>
                     <div class="contenido">
                         <div class="estantes">
-                            <h1>00</h1>
+                            <h1> <?php the_field('espigueros_totales_coricos'); ?></h1>
                         </div>
                         <div class="sabores contenido">
                             <div class="estantes">
-                                <h1>00</h1>
+                                <h1> <?php the_field('total_de_charolas'); ?></h1>
                             </div>
                         </div>
                     </div>
