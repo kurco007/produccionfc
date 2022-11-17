@@ -12,7 +12,7 @@
 <body>
     <header>
         <div class="titulo">
-            <h1> Produccion</h1>
+            <h1> Producción</h1>
             <h2 class="fecha"> <?php the_time('l, j \d\e F \d\e Y'); ?></h2>
             <div class="linea"></div>
     </header>
