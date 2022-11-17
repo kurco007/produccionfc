@@ -23,7 +23,8 @@
 
                         <div class="sabores">
                             <div class="cantidad">
-                                <p> <?php the_field('cajeta_coyotas'); ?> y</p>
+                                <p> <?php the_field('cajeta_coyotas'); ?> y
+                                    <?php the_field('charolas_cajeta_coyotas'); ?></p>
                                 <p> <?php the_field('jamoncillo'); ?> y</p>
                                 <p> <?php the_field('piloncillo'); ?> y</p>
                                 <p> <?php the_field('nuez'); ?> y</p>
