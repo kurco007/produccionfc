@@ -1,0 +1,98 @@
+/*
+Theme Name: Contador produccion
+Theme URI:
+Author: Francisco Jesus Kurt Cruz Garcia
+Author URI:
+Description: Produccion
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Tags: 
+Text Domain: contador simple de produccion
+*/
+.cuerpo{
+    margin: 0;
+}
+.area-produccion{
+    display: flex;
+    height: 800px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+h2 {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+.linea{
+    display: flex;
+    margin-top: -20px;
+}
+.linea1, .linea2{
+    width: 50%;
+}
+.fecha{
+    font-size: small;
+}
+.produccion{
+    width: 100%;
+    height: 800px;
+    border-right: 2px solid black;
+}
+.contenido{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        height: 300px;
+}
+.estantes, .sabores{
+    width: 50%;
+
+    align-items: center;
+}
+.estantes h3{
+margin-bottom: 100px;
+font-size: 20px;
+}
+.estantes h1{
+    font-size: 100px;
+}
+.slider{
+    border-top: 2px solid black;
+    height: 120px;
+    width: 100%;
+}
+.seccion1{
+display: flex;
+width: 100%;
+height: 400px;
+}
+.seccion2 {
+    display: flex;
+    width: 100%;
+    height: 400px;
+}
+.coyotas,.empanadas, .mini-coyotas, .coricos{
+    height: 400px;
+    width: 50%;
+}
+.coyotas, .mini-coyotas{
+    border-bottom: 2px solid black;
+}
+.mini-coyotas, .coricos{
+    border-left: 2px solid black;
+}
+th{width: 50%;
+font-size: 30px;}
+
+.sabores{
+    display: flex;
+}
+.cantidad p,.sabor p{
+    margin-left: 20px;
+    font-size: 30px;
+}
