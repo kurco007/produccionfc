@@ -16,7 +16,7 @@
                     </table>
                     <div class="contenido">
                         <div class="estantes">
-                            <h1>00</h1>
+                            <h1><?php get_field('espigueros_totales_coyotas'); ?></h1>
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
