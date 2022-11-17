@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: 
 Text Domain: contador simple de produccion
 */
-.cuerpo{
+body{
     margin: 0;
 }
 .area-produccion{
@@ -35,8 +35,12 @@ h2 {
 .linea1, .linea2{
     width: 50%;
 }
+.titulo{
+    text-align: center;
+}
 .fecha{
     font-size: small;
+    text-align: center;
 }
 .produccion{
     width: 100%;
