@@ -22,9 +22,9 @@
                         <div class="sabores">
                             <div class="cantidad">
                                 <p> <?php the_field('cajeta_coyotas'); ?></p>
-                                <p> <?php the_field('jamoncillo_coyotas'); ?></p>
-                                <p> <?php the_field('piloncilo_coyotas'); ?></p>
-                                <p> <?php the_field('nuez_coyotas'); ?></p>
+                                <p> <?php the_field('jamoncillo'); ?></p>
+                                <p> <?php the_field('piloncilo'); ?></p>
+                                <p> <?php the_field('nuez'); ?></p>
                             </div>
                             <div class="sabor">
                                 <p>Cajeta</p>
@@ -49,12 +49,12 @@
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
+                                <p> <?php the_field('cajeta_mini'); ?></p>
                                 <p> <?php the_field('lechera_mini'); ?></p>
-                                <p>00</p>
                             </div>
                             <div class="sabor">
                                 <p>Cajeta</p>
-                                <p>Jamoncillo</p>
+                                <p>Lechera</p>
                             </div>
                         </div>
                     </div>
