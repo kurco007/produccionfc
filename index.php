@@ -1,1 +1,1 @@
-<?php get_headers();
+<?php get_header();
