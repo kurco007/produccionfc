@@ -37,7 +37,9 @@ h2 {
     font-size: 50px;
     margin: 0;
 }
-
+.seccion h2{
+    border-bottom: 2px solid black;
+}
 .linea1, .linea2{
     width: 50%;
 }
@@ -107,3 +109,5 @@ font-size: 30px;}
     margin-left: 20px;
     font-size: 30px;
 }
+
+/* Formato 2*/ 
