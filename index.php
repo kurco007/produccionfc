@@ -45,8 +45,8 @@
                     <h2>Mini Coyotas</h2>
                     <table style="width: 100%;">
                         <tr>
-                            <th>Estantes</th>
-                            <th>Sabores</th>
+                            <th>Espiqueros Totales</th>
+                            <th>Espigueros por Sabor</th>
                         </tr>
                     </table>
                     <div class="contenido">
@@ -72,8 +72,8 @@
                     <h2>Empanadas</h2>
                     <table style="width: 100%;">
                         <tr>
-                            <th>Estantes</th>
-                            <th>Sabores</th>
+                            <th>Espigueros Totales</th>
+                            <th>Espiguero por Sabor</th>
                         </tr>
                     </table>
                     <div class="contenido">
@@ -96,8 +96,8 @@
                     <h2>Coricos</h2>
                     <table style="width: 100%;">
                         <tr>
-                            <th>Estantes</th>
-                            <th>Sabores</th>
+                            <th>Espigueros Totales</th>
+                            <th>Charolas totales</th>
                         </tr>
                     </table>
                     <div class="contenido">
