@@ -26,7 +26,7 @@ header{
 }
 p{
     margin: 0;
-    font-size: 5px;
+
 }
 
 h1{
@@ -69,10 +69,7 @@ h2 {
     width: 50%;
     align-items: center;
 }
-.sabores p:last-of-type{
-    margin-left: 1px;
 
-}
 
 
 .estantes h3{
