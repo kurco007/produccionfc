@@ -99,6 +99,10 @@ height: 250px;
 .coyotas, .mini-coyotas{
     height: 250px;
 }
+.empanadas,
+.coricos {
+    height: 250px;
+}
 
 .coyotas, .mini-coyotas{
     border-bottom: 2px solid black;
