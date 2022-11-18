@@ -30,13 +30,15 @@
                                 <p> <?php the_field('piloncillo'); ?> y
                                     <?php the_field('charolas_piloncillo_coyotas'); ?> </p>
                                 <p> <?php the_field('nuez'); ?> y <?php the_field('charolas_nuez_coyotas'); ?> </p>
-
+                                <p> <?php the_field('lechera'); ?> y <?php the_field('charolas_lechera_coyotas'); ?>
+                                </p>
                             </div>
                             <div class="sabor">
                                 <p>Cajeta</p>
                                 <p>Jamoncillo</p>
                                 <p>Piloncillo</p>
                                 <p>Nuez</p>
+                                <p>Lechera</p>
                             </div>
                         </div>
                     </div>
