@@ -110,8 +110,11 @@ font-size: 30px;}
 .sabores{
     display: flex;
 }
-.cantidad p,.sabor p{
+.cantidad p{
     margin-left: 20px;
+    font-size: 30px;
+}
+.sabor p{
     font-size: 30px;
 }
 
