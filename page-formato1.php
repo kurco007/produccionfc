@@ -55,8 +55,9 @@
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
-                                <p> <?php the_field('cajeta_mini'); ?></p>
-                                <p> <?php the_field('lechera_mini'); ?></p>
+                                <p> <?php the_field('cajeta_mini'); ?> y <?php the_field('charolas_cajeta_mini'); ?></p>
+                                <p> <?php the_field('lechera_mini'); ?> y <?php the_field('charolas_lechera_mini'); ?>
+                                </p>
 
                             </div>
                             <div class="sabor">
@@ -82,8 +83,10 @@
                         </div>
                         <div class="sabores">
                             <div class="cantidad">
-                                <p> <?php the_field('cajeta_empanadas');  ?> y</p>
-                                <p> <?php the_field('lechera_empanadas'); ?> y</p>
+                                <p> <?php the_field('cajeta_empanadas');  ?> y
+                                    <?php the_field('charolas_cajeta_empanada'); ?></p>
+                                <p> <?php the_field('lechera_empanadas'); ?> y
+                                    <?php the_field('charolas_lechera_empanadas'); ?></p>
                             </div>
 
                             <div class="sabor">
