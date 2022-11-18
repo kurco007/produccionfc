@@ -86,7 +86,7 @@ font-size: 10px;
 .seccion1{
 display: flex;
 width: 100%;
-height: 300px;
+height: 250px;
 }
 .seccion2 {
     display: flex;
@@ -94,9 +94,12 @@ height: 300px;
     height: 200px;
 }
 .coyotas,.empanadas, .mini-coyotas, .coricos{
-    height: 200px;
     width: 50%;
 }
+.coyotas, .mini-coyotas{
+    height: 250px;
+}
+
 .coyotas, .mini-coyotas{
     border-bottom: 2px solid black;
 }
