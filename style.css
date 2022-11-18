@@ -56,7 +56,7 @@ h2 {
 }
 .produccion{
     width: 100%;
-    height: 400px;
+    height: 450px;
     border-top: 2px solid black;
         border-bottom: 2px solid black;
 }
@@ -101,7 +101,7 @@ height: 250px;
 }
 .empanadas,
 .coricos {
-    height: 250px;
+    height: 200px;
 }
 
 .coyotas, .mini-coyotas{
