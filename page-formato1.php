@@ -46,7 +46,7 @@
                     <table style="width: 100%;">
                         <tr>
                             <th>Espiqueros Totales</th>
-                            <th>Espigueros por Sabor</th>
+                            <th>Espigueros y charolas por Sabor</th>
                         </tr>
                     </table>
                     <div class="contenido">
@@ -74,7 +74,7 @@
                     <table style="width: 100%;">
                         <tr>
                             <th>Espigueros Totales</th>
-                            <th>Espiguero por Sabor</th>
+                            <th>Espiguero y charolas por Sabor</th>
                         </tr>
                     </table>
                     <div class="contenido">
