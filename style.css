@@ -21,7 +21,7 @@ header{
 }
 .area-produccion{
     display: flex;
-    height: 800px;
+    height: 400px;
     width: 100%;
 }
 p{
@@ -64,7 +64,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-        height: 300px;
+        height: 120px;
 }
 .estantes, .sabores{
     width: 50%;
