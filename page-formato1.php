@@ -84,7 +84,7 @@
                         <div class="sabores">
                             <div class="cantidad">
                                 <p> <?php the_field('cajeta_empanadas');  ?> y
-                                    <?php the_field('charolas_cajeta_empanada'); ?></p>
+                                    <?php the_field('charolas_cajeta_empanadas'); ?></p>
                                 <p> <?php the_field('lechera_empanadas'); ?> y
                                     <?php the_field('charolas_lechera_empanadas'); ?></p>
                             </div>
