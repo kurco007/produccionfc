@@ -123,5 +123,5 @@
 </div>
 <div class="slider">
 
-    <img src="<?php echo esc_attr('imagen'); ?>" alt="">
+    <img src="<?php echo wp_get_attachment_image_src('imagen', 'mediano') ?>" alt="">
 </div>
