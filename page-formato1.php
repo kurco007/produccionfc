@@ -122,5 +122,8 @@
     </div>
 </div>
 <div class="slider">
-    <?php the_field('imagen'); ?>
+    <?php $area1 = get_field('imagen');
+    $imagen = wp_get_attachment_image_src($area1['imagen'])[0];
+    ?>
+    <img src="<?php echo esc_attr($imagen); ?>" alt="">
 </div>
