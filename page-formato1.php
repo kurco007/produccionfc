@@ -123,5 +123,5 @@
 </div>
 <div class="slider">
 
-    <img src="<?php echo wp_get_attachment_image_src('imagen', 'mediano')[0] ?>" alt="">
+    <img src="https://produccion.flordecapomo.us/wp-content/uploads/2022/12/Cumpleaneros-del-dia.png" alt="">
 </div>
