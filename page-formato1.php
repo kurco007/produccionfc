@@ -122,4 +122,5 @@
     </div>
 </div>
 <div class="slider">
+    <?php the_field('imagen'); ?>
 </div>
